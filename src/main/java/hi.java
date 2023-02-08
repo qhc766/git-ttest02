@@ -3,5 +3,6 @@ public class hi {
         System.out.println("long time no see~");
         System.out.println("i miss u~");
         System.out.println("hot coming~");
+        System.out.println("master");
     }
 }
