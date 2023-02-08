@@ -4,5 +4,6 @@ public class hi {
         System.out.println("i miss u~");
         System.out.println("hot coming~");
         System.out.println("master");
+        System.out.println("hot");
     }
 }
