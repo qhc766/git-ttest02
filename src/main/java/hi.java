@@ -5,5 +5,6 @@ public class hi {
         System.out.println("hot coming~");
         System.out.println("master");
         System.out.println("hot");
+        System.out.println("push");
     }
 }
